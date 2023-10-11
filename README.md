@@ -13,7 +13,7 @@
 ###
 
 # 💫 About Me:
-🔭 I’m currently learning web development <br>👯 I’m looking to collaborate <br>🌱 I’m currently learning react, frontend, tailwindcss, and javascript.<br>⚡ Fun fact Boeing used potatoes to test their in-flight Wi-Fi! <br> 💬 You can reach me at [hasibfire24@gmail.com]
+🔭 I’m currently learning web development <br>👯 I’m looking to collaborate <br>🌱 I’m interested in react, frontend, tailwindcss, and javascript.<br>⚡ Fun fact Boeing used potatoes to test their in-flight Wi-Fi! <br> 💬 You can reach me at [hasibfire24@gmail.com]
 
 <br clear="both">
 
@@ -36,7 +36,6 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=KnockOutEZ&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KnockOutEZ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
