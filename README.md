@@ -13,7 +13,7 @@
 ###
 
 # 💫 About Me:
-🔭 I’m A Junior Software Engineer and Currently Learning Backend. <br>👯 I’m looking to collaborate <br>🌱 I’m interested in anything related to tech and learning new things.<br>⚡ Fun fact: Boeing used potatoes to test their in-flight Wi-Fi! <br> 💬 You can reach me at [hasibfire24@gmail.com]
+🔭 I’m A Junior Software Engineer and Currently Learning DevOps stuff. <br>👯 I’m looking to collaborate <br>🌱 I’m interested in anything related to tech and learning new things.<br>⚡ Fun fact: Boeing used potatoes to test their in-flight Wi-Fi! <br> 💬 You can reach me at [hasibfire24@gmail.com]
 
 <br clear="both">
 
