@@ -13,7 +13,7 @@
 ###
 
 # 💫 About Me:
-🔭 I’m A Junior Software Engineer and Currently Learning DevOps stuff. <br>👯 I’m looking to collaborate <br>🌱 I’m interested in anything related to tech and learning new things.<br>⚡ Fun fact: Boeing used potatoes to test their in-flight Wi-Fi! <br> 💬 You can reach me at [hasibfire24@gmail.com]
+🔭 I’m A Junior Software Engineer and Currently Learning LLM and AI Tools. <br>👯 I’m looking to collaborate <br>🌱 I’m interested in anything related to tech and learning new things.<br>⚡ Fun fact: Boeing used potatoes to test their in-flight Wi-Fi! <br> 💬 You can reach me at [hasibfire24@gmail.com]
 
 <br clear="both">
 
@@ -42,7 +42,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chipsii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chipsii&theme=dracula" height="150" alt="languages graph" />
 </div>
 
 ###
