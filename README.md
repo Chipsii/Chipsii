@@ -42,7 +42,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chipsii&theme=dracula" height="150" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chipsii&theme=dracula" height="150" alt="languages graph" />
 </div>
 
 ###
